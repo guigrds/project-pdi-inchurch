@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		91062D6C29393167007E4894 /* PDI_inChurch_iOS_ProgrammingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91062D6B29393167007E4894 /* PDI_inChurch_iOS_ProgrammingApp.swift */; };
+		91062D6C29393167007E4894 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91062D6B29393167007E4894 /* ViewController.swift */; };
 		91062D6E29393167007E4894 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91062D6D29393167007E4894 /* ContentView.swift */; };
 		91062D702939316A007E4894 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91062D6F2939316A007E4894 /* Assets.xcassets */; };
 		91062D742939316A007E4894 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91062D732939316A007E4894 /* Preview Assets.xcassets */; };
@@ -35,7 +35,7 @@
 
 /* Begin PBXFileReference section */
 		91062D6829393167007E4894 /* PDI inChurch iOS Programming.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PDI inChurch iOS Programming.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		91062D6B29393167007E4894 /* PDI_inChurch_iOS_ProgrammingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PDI_inChurch_iOS_ProgrammingApp.swift; sourceTree = "<group>"; };
+		91062D6B29393167007E4894 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		91062D6D29393167007E4894 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		91062D6F2939316A007E4894 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		91062D712939316A007E4894 /* PDI_inChurch_iOS_Programming.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = PDI_inChurch_iOS_Programming.entitlements; sourceTree = "<group>"; };
@@ -95,7 +95,7 @@
 		91062D6A29393167007E4894 /* PDI inChurch iOS Programming */ = {
 			isa = PBXGroup;
 			children = (
-				91062D6B29393167007E4894 /* PDI_inChurch_iOS_ProgrammingApp.swift */,
+				91062D6B29393167007E4894 /* ViewController.swift */,
 				91062D6D29393167007E4894 /* ContentView.swift */,
 				91062D6F2939316A007E4894 /* Assets.xcassets */,
 				91062D712939316A007E4894 /* PDI_inChurch_iOS_Programming.entitlements */,
@@ -260,7 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				91062D6E29393167007E4894 /* ContentView.swift in Sources */,
-				91062D6C29393167007E4894 /* PDI_inChurch_iOS_ProgrammingApp.swift in Sources */,
+				91062D6C29393167007E4894 /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
