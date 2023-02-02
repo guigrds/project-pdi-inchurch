@@ -16,6 +16,8 @@
 		91062D8A2939316A007E4894 /* PDI_inChurch_iOS_ProgrammingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91062D892939316A007E4894 /* PDI_inChurch_iOS_ProgrammingUITestsLaunchTests.swift */; };
 		910C49722982ADD6005D4C98 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 910C49712982ADD6005D4C98 /* Storyboard.storyboard */; };
 		910C49742982B1BF005D4C98 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910C49732982B1BF005D4C98 /* MapViewController.swift */; };
+		91E97E2D298C01D800C7D7B9 /* ConversionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E97E2C298C01D800C7D7B9 /* ConversionViewController.swift */; };
+		91E97E2F298C026800C7D7B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E97E2E298C026800C7D7B9 /* AppDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		91062D892939316A007E4894 /* PDI_inChurch_iOS_ProgrammingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PDI_inChurch_iOS_ProgrammingUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		910C49712982ADD6005D4C98 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		910C49732982B1BF005D4C98 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		91E97E2C298C01D800C7D7B9 /* ConversionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConversionViewController.swift; sourceTree = "<group>"; };
+		91E97E2E298C026800C7D7B9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,7 +103,9 @@
 		91062D6A29393167007E4894 /* PDI inChurch iOS Programming */ = {
 			isa = PBXGroup;
 			children = (
+				91E97E2E298C026800C7D7B9 /* AppDelegate.swift */,
 				91062D6B29393167007E4894 /* ViewController.swift */,
+				91E97E2C298C01D800C7D7B9 /* ConversionViewController.swift */,
 				910C49732982B1BF005D4C98 /* MapViewController.swift */,
 				91062D6D29393167007E4894 /* ContentView.swift */,
 				91062D6F2939316A007E4894 /* Assets.xcassets */,
@@ -268,6 +274,8 @@
 			files = (
 				91062D6E29393167007E4894 /* ContentView.swift in Sources */,
 				910C49742982B1BF005D4C98 /* MapViewController.swift in Sources */,
+				91E97E2D298C01D800C7D7B9 /* ConversionViewController.swift in Sources */,
+				91E97E2F298C026800C7D7B9 /* AppDelegate.swift in Sources */,
 				91062D6C29393167007E4894 /* ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
