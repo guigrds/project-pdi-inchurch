@@ -16,6 +16,13 @@
 		91062D8A2939316A007E4894 /* PDI_inChurch_iOS_ProgrammingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91062D892939316A007E4894 /* PDI_inChurch_iOS_ProgrammingUITestsLaunchTests.swift */; };
 		910C49722982ADD6005D4C98 /* Storyboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 910C49712982ADD6005D4C98 /* Storyboard.storyboard */; };
 		910C49742982B1BF005D4C98 /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 910C49732982B1BF005D4C98 /* MapViewController.swift */; };
+<<<<<<< Updated upstream
+=======
+		91E97E2D298C01D800C7D7B9 /* ConversionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E97E2C298C01D800C7D7B9 /* ConversionViewController.swift */; };
+		91E97E2F298C026800C7D7B9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E97E2E298C026800C7D7B9 /* AppDelegate.swift */; };
+		91E97E31298C0B1800C7D7B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 91E97E30298C0B1800C7D7B9 /* Main.storyboard */; };
+		91E97E33298C0B4000C7D7B9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91E97E32298C0B4000C7D7B9 /* SceneDelegate.swift */; };
+>>>>>>> Stashed changes
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +56,13 @@
 		91062D892939316A007E4894 /* PDI_inChurch_iOS_ProgrammingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PDI_inChurch_iOS_ProgrammingUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		910C49712982ADD6005D4C98 /* Storyboard.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Storyboard.storyboard; sourceTree = "<group>"; };
 		910C49732982B1BF005D4C98 /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+<<<<<<< Updated upstream
+=======
+		91E97E2C298C01D800C7D7B9 /* ConversionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConversionViewController.swift; sourceTree = "<group>"; };
+		91E97E2E298C026800C7D7B9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		91E97E30298C0B1800C7D7B9 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		91E97E32298C0B4000C7D7B9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+>>>>>>> Stashed changes
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,9 +113,15 @@
 		91062D6A29393167007E4894 /* PDI inChurch iOS Programming */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< Updated upstream
+=======
+				91E97E2E298C026800C7D7B9 /* AppDelegate.swift */,
+				91E97E32298C0B4000C7D7B9 /* SceneDelegate.swift */,
+>>>>>>> Stashed changes
 				91062D6B29393167007E4894 /* ViewController.swift */,
 				910C49732982B1BF005D4C98 /* MapViewController.swift */,
 				91062D6D29393167007E4894 /* ContentView.swift */,
+				91E97E30298C0B1800C7D7B9 /* Main.storyboard */,
 				91062D6F2939316A007E4894 /* Assets.xcassets */,
 				910C49712982ADD6005D4C98 /* Storyboard.storyboard */,
 				91062D712939316A007E4894 /* PDI_inChurch_iOS_Programming.entitlements */,
@@ -242,6 +262,7 @@
 				91062D742939316A007E4894 /* Preview Assets.xcassets in Resources */,
 				91062D702939316A007E4894 /* Assets.xcassets in Resources */,
 				910C49722982ADD6005D4C98 /* Storyboard.storyboard in Resources */,
+				91E97E31298C0B1800C7D7B9 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +290,7 @@
 				91062D6E29393167007E4894 /* ContentView.swift in Sources */,
 				910C49742982B1BF005D4C98 /* MapViewController.swift in Sources */,
 				91062D6C29393167007E4894 /* ViewController.swift in Sources */,
+				91E97E33298C0B4000C7D7B9 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
